@@ -1,15 +1,13 @@
 #include <stdio.h>
 
-int main ()
+int main()
 {
-    int a, b, sum;
 
-    a = 50;
-    b = 60;
+int a = 60, b = 50, sum = a + b;
 
-    sum = a + b;
 
-    printf("sum is %d", sum);
+printf("sum is %d", sum);
 
-    return 0;
+
+return 0;
 }
