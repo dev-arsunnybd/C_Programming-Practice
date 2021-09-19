@@ -2,10 +2,7 @@
 
 int main ()
 {
-
-    int a;
-    int b;
-    int sum;
+    int a, b, sum;
 
     a = 50;
     b = 60;
@@ -16,4 +13,3 @@ int main ()
 
     return 0;
 }
-
